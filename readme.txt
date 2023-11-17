@@ -1,6 +1,6 @@
 === Volume Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: volume calculator, sphere volume, cone volume, cube volume, cylinder volume, rectangular tank volume, capsule volume, spherical cap volume, three-dimensional shapes, volume equations
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
