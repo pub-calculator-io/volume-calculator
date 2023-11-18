@@ -1,4 +1,4 @@
-# Volume Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Volume Calculator Widget for WordPress
 
 The online volume calculator performs calculations for 11 different geometric shapes. The tool supports different units of measurement and demonstrates the solution steps.
 
