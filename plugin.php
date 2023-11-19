@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Volume Calculator by www.calculator.io
+Plugin Name: CI Volume calculator
 Plugin URI: https://www.calculator.io/volume-calculator/
 Description: The online volume calculator performs calculations for 11 different geometric shapes. The tool supports different units of measurement and demonstrates the solution steps.
 Version: 1.0.0
